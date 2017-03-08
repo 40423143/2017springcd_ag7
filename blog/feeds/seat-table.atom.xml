@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 第二組</title><link href="./" rel="alternate"></link><link href="./feeds/seat-table.atom.xml" rel="self"></link><id>./</id><updated>2017-03-02T12:08:00+08:00</updated><entry><title>設計二甲第二周</title><link href="./she-ji-er-jia-di-er-zhou.html" rel="alternate"></link><published>2017-03-02T12:08:00+08:00</published><updated>2017-03-02T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-03-02:./she-ji-er-jia-di-er-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;第二周&lt;/h2&gt;
+&lt;p&gt;第一週課程簡報
+1.利用ipconfig /all查詢 IPv4 位址,接著使用SciTE開啟stunnel/config/stunnel.conf,修改accept的ip位址&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>設計二甲座位表</title><link href="./she-ji-er-jia-zuo-wei-biao.html" rel="alternate"></link><published>2017-02-28T12:08:00+08:00</published><updated>2017-02-28T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-02-28:./she-ji-er-jia-zuo-wei-biao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;設計二甲座位表&lt;/h2&gt;
+&lt;p&gt;&lt;a href="./../2017/seet.html"&gt;seet&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;第二組組長:40423143 楊智勝&lt;/h2&gt;
+&lt;p&gt;組員40423114
+組員40423141
+組員40423120
+組員40423154
+組員40423147
+組員40423114
+組員40423124
+組員40423146&lt;/p&gt;</summary><category term="seat table"></category></entry></feed>
