@@ -5,55 +5,55 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-16T11:24:13-00:00</lastmod>
+<lastmod>2017-03-17T12:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-16T11:24:13-00:00</lastmod>
+<lastmod>2017-03-17T12:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-16T11:24:13-00:00</lastmod>
+<lastmod>2017-03-17T12:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-16T11:24:13-00:00</lastmod>
+<lastmod>2017-03-17T12:38:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-16T10:36:31+08:00</lastmod>
+<lastmod>2017-03-17T11:32:24+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./she-ji-er-jia-di-si-zhou.html</loc>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou.html</loc>
 <lastmod>2017-03-16T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./she-ji-er-jia-di-san-zhou.html</loc>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou.html</loc>
 <lastmod>2017-03-09T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./she-ji-er-jia-di-er-zhou.html</loc>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou.html</loc>
 <lastmod>2017-03-02T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -67,7 +67,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-jian-bao.html</loc>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou.html</loc>
 <lastmod>2017-02-25T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -88,15 +88,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/ppt.html</loc>
-<lastmod>2017-02-25T12:08:00+08:06</lastmod>
+<loc>./tag/seat-table.html</loc>
+<lastmod>2017-03-16T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/seat-table.html</loc>
-<lastmod>2017-03-16T12:08:00+08:06</lastmod>
+<loc>./tag/ppt.html</loc>
+<lastmod>2017-02-25T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

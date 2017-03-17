@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 第七組</title><link href="./" rel="alternate"></link><link href="./feeds/seat-table.atom.xml" rel="self"></link><id>./</id><updated>2017-03-16T12:08:00+08:00</updated><entry><title>設計二甲第四周</title><link href="./she-ji-er-jia-di-si-zhou.html" rel="alternate"></link><published>2017-03-16T12:08:00+08:00</published><updated>2017-03-16T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-03-16:./she-ji-er-jia-di-si-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 第七組</title><link href="./" rel="alternate"></link><link href="./feeds/seat-table.atom.xml" rel="self"></link><id>./</id><updated>2017-03-16T12:08:00+08:00</updated><entry><title>協同產品設計實習 第四周</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou.html" rel="alternate"></link><published>2017-03-16T12:08:00+08:00</published><updated>2017-03-16T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-03-16:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;第四周&lt;/h2&gt;
 &lt;p&gt;上課心得:新架構,新體驗
@@ -10,16 +10,77 @@
 40423123
 40423141
 第七組FOSSIL SCM連結:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdag7/home"&gt;https://mde2a2.kmol.info/cdag7/home&lt;/a&gt;&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>設計二甲第三周</title><link href="./she-ji-er-jia-di-san-zhou.html" rel="alternate"></link><published>2017-03-09T12:08:00+08:00</published><updated>2017-03-09T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-03-09:./she-ji-er-jia-di-san-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdag7/home"&gt;https://mde2a2.kmol.info/cdag7/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、Wiki 、Bug Tracking 與 Technote 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程, 在協同產品設計實習課程中, 我們除了使用 git、github 與 bitbucket 之外, 將要在區域網路與系上主幹中, 配置每班兩台的 Fossil SCM 實習主機.&lt;/p&gt;
+&lt;p&gt;心得:當組長超累&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第三周</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou.html" rel="alternate"></link><published>2017-03-09T12:08:00+08:00</published><updated>2017-03-09T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-03-09:./xie-tong-chan-pin-she-ji-shi-xi-di-san-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;第三周&lt;/h2&gt;
 &lt;p&gt;上課筆記:觀看上課影片並進行翻譯,和完成4連桿的模擬&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>設計二甲第二周</title><link href="./she-ji-er-jia-di-er-zhou.html" rel="alternate"></link><published>2017-03-02T12:08:00+08:00</published><updated>2017-03-02T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-03-02:./she-ji-er-jia-di-er-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yO1onYoPCGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;##影片翻譯 影片二 翻譯人:40423141
+ &lt;iframe src="https://player.vimeo.com/video/207229488" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;內容: The 2017 HyperWorks release has a lot 在2017年HyperWorks發行很多版本&lt;/p&gt;
+&lt;p&gt;of enhancements to the modeling and assembly capabilities 對軟件的建模和組裝能力的增強&lt;/p&gt;
+&lt;p&gt;So we put in a new parts browser with a built-in part library 所以我們在一個新的零件瀏覽器與一個內置零件庫&lt;/p&gt;
+&lt;p&gt;The part library is a great tool for storing and loading work in progress 零件庫是用於存儲和加載正在進行工作的一個很好的工具&lt;/p&gt;
+&lt;p&gt;So you can store a catalog of all the common parts 因此，您可以存儲所有公共部分的目錄&lt;/p&gt;
+&lt;p&gt;that a workgroup needs to use,so they can download their models from their PLM system 工作組需要使用，因此他們可以從他們的PLM系統下載他們的模型&lt;/p&gt;
+&lt;p&gt;and store them locally in a parts library for a work in progress 並將它們本地存儲在正在進行的工作的零件庫中&lt;/p&gt;
+&lt;p&gt;And it keeps revision control on them, 他保持對它們的修訂控制&lt;/p&gt;
+&lt;p&gt;so they can back up to the different versions and reload. 所以他們可以備份到不同的版本並重新加載。&lt;/p&gt;
+&lt;p&gt;And they can also build different configurations now of their models. 他們也可以建立不同的配置到他們現在的的模型。&lt;/p&gt;
+&lt;p&gt;In the configuration modeler now 現在在配置建模器&lt;/p&gt;
+&lt;p&gt;they can import parts from part library and then group 他們可以從零件庫導入零件然後分組&lt;/p&gt;
+&lt;p&gt;them into what we call part sets,which are 他們變成我們所說的部分集&lt;/p&gt;
+&lt;p&gt;convenient groupings of parts. 即零件方便分組&lt;/p&gt;
+&lt;p&gt;And then they can drag those parts together into assemblies, 然後他們可以將這些部分一起拖入組件&lt;/p&gt;
+&lt;p&gt;and configure them for different load 並為不同負載配置它們的&lt;/p&gt;
+&lt;p&gt;cases or different variations of their models. 情況或他們的模型的不同變化&lt;/p&gt;
+&lt;p&gt;the other feature of haveing parts in the software 硬件部分的軟件中的另一個特點&lt;/p&gt;
+&lt;p&gt;is we do part instancing now,too. 我們現在也做實例化&lt;/p&gt;
+&lt;p&gt;So if you load in a part that has 所以如果你加載在一個部分&lt;/p&gt;
+&lt;p&gt;multiple instances through the model,we support that. 我們支持多個實例通過模型&lt;/p&gt;
+&lt;p&gt;We don't have to create multiple copies of it. 我們不必創建它的多個副本&lt;/p&gt;
+&lt;p&gt;We can actually do the instancing,which is very memory efficient. 我們可以做實際，這是非常有效的記憶。&lt;/p&gt;
+&lt;p&gt;Also in the model building assembly 也在模型建築組裝&lt;/p&gt;
+&lt;p&gt;tool set is enhanced ID management as well. 工具集也是增強的ID管理&lt;/p&gt;
+&lt;p&gt;So not only can we assign IDs based on different rules 因此，我們不僅可以根據不同的規則分配ID&lt;/p&gt;
+&lt;p&gt;that you define in the software,but you can import ID systems 您可以在軟件中定義，但可以導入ID系統&lt;/p&gt;
+&lt;p&gt;form spreadsheets,XML files,databases, 形式電子表格，XML文件，數據庫，&lt;/p&gt;
+&lt;p&gt;and so forth,that are then used when 等等，然後在使用&lt;/p&gt;
+&lt;p&gt;it does the renumbering or the assembly of the model. 它進行重新編號或模型的組裝&lt;/p&gt;
+&lt;p&gt;it has to resolve part collisions. 它必須解決部分碰撞。&lt;/p&gt;
+&lt;p&gt;Really important part of doing model assembly 做模型組裝重要的部分&lt;/p&gt;
+&lt;p&gt;is connecting all those parts together. 將所有這些部分連接在一起&lt;/p&gt;
+&lt;p&gt;Connectors are really vital to the overall assembly process. 連接器對整個裝配過程至關重要。&lt;/p&gt;
+&lt;p&gt;The quality of the connector that you create really 您真正創建的連接器的質量&lt;/p&gt;
+&lt;p&gt;determines the outcome of the quality 確定質量的結果&lt;/p&gt;
+&lt;p&gt;of the overall assembled model as well. 對整體組裝模型&lt;/p&gt;
+&lt;p&gt;So for us to get a good high fidelity solution, 所以為我們得到一個良好的高保真度解決方案&lt;/p&gt;
+&lt;p&gt;you have to have a really good connection generation as well. 你必須有一個非常好的連接生成&lt;/p&gt;
+&lt;p&gt;翻譯心得:這是由英文很強的組員翻的,是有嘗試去聽但聽不是很懂&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第二周</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou.html" rel="alternate"></link><published>2017-03-02T12:08:00+08:00</published><updated>2017-03-02T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-03-02:./xie-tong-chan-pin-she-ji-shi-xi-di-er-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;第二周&lt;/h2&gt;
 &lt;p&gt;第一週課程簡報
 1.利用ipconfig /all查詢 IPv4 位址,接著使用SciTE開啟stunnel/config/stunnel.conf,修改accept的ip位址&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Jc7H63UEVuo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="seat table"></category></entry><entry><title>設計二甲座位表</title><link href="./she-ji-er-jia-zuo-wei-biao.html" rel="alternate"></link><published>2017-02-28T12:08:00+08:00</published><updated>2017-02-28T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-02-28:./she-ji-er-jia-zuo-wei-biao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Jc7H63UEVuo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;SolveSpace零件一&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ejty0OLbmxA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;繪製者:40423143&lt;/p&gt;
+&lt;h1&gt;SolveSpace零件二&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ptTiyfvMJmQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;繪製者:40423143&lt;/p&gt;
+&lt;h1&gt;SolveSpace零件三&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NWiA-TOiAo8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;繪製者:40423143&lt;/p&gt;
+&lt;h1&gt;SolveSpace零件組合&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/207759842" width="640" height="326" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;繪製者:40423123&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>設計二甲座位表</title><link href="./she-ji-er-jia-zuo-wei-biao.html" rel="alternate"></link><published>2017-02-28T12:08:00+08:00</published><updated>2017-02-28T12:08:00+08:00</updated><author><name>2017springcd_ag7</name></author><id>tag:,2017-02-28:./she-ji-er-jia-zuo-wei-biao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;設計二甲座位表&lt;/h2&gt;
 &lt;p&gt;&lt;a href="./../2017/seet.html"&gt;seet&lt;/a&gt;&lt;/p&gt;
