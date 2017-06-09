@@ -1,0 +1,12 @@
+安裝 Ubuntu server
+
+先在內部網路安裝, 選擇自動更新 security patch 以及安裝 OpenSSH 
+
+1. apt proxy setup
+
+/etc/apt/apt.conf
+
+Acquire::http::Proxy "http://140.130.17.17:3128";
+
+2. sudo apt install ubuntu-desktop
+

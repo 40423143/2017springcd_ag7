@@ -1,0 +1,19 @@
+CDW6
+
+1. 全自動的 start.bat 與 stop.bat 設定
+
+2. 使用者可以完全控制近端 (隨身碟或隨身硬碟) 上的 Fossil SCM Server 啟動, 並且登入進行 Wiki 與 Technote 的內容管理
+
+3. 使用者可以在近端練習各種 Fossil SCM 的指令與連桿位置 tracking 驗證程式的開發
+
+4. 使用者已經可以利用 Solvespace 與 OnShape 繪製 one-link, four-bar 與 Jansen's Linkage 機構, 並且將模型導入 V-rep
+
+5. 使用者已經可以完成 V-rep 模擬平台上的 one-link velocity and position control
+
+6. 使用者學習如何透過 loop closure 設定, 將 four-bar linkage 從 Solvespace 與 OnShape 轉入 V-rep 進行 Python Remote API 的 position and velocity 控制
+
+7. 使用者學習如何利用 OnShape 在瀏覽器中進行 one-link 與 four-bar linkage 的運動模擬, 轉出 public link 放到個人的簡報與網誌中.
+    
+8. 使用者必須完成以上各階段的操作流程說明與操作影片拍攝, 並透過簡報與網誌完成個人的期中專案報告.
+
+9. 期中考後則陸續完成 Jansen's Linkage 的 OnShape 運動模擬與 V-rep 平台上的 Python Remote API position 與 velocity control simulation

@@ -1,0 +1,9 @@
+1. stunnel.conf 與實體 IP 對應, 請各組至少啟動一台 https Fossil 主機
+
+2. 啟動後以 https://IP/2017springvcp_hw 連結
+
+3. 管理帳號為 cadlab 密碼為 2017springvcp_hw
+
+4. 各組登入後可以利用 Admin 建立帳號
+
+https://ethercalc.org/4lirnzbeh0fl
