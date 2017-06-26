@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-06-09T16:50:58-00:00</lastmod>
+<lastmod>2017-06-26T16:16:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-06-09T16:50:58-00:00</lastmod>
+<lastmod>2017-06-26T16:16:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-06-09T16:50:58-00:00</lastmod>
+<lastmod>2017-06-26T16:16:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-06-09T16:50:58-00:00</lastmod>
+<lastmod>2017-06-26T16:16:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-30T10:07:27+08:00</lastmod>
+<lastmod>2017-06-26T15:49:16+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-qi-zu-xing-zou-ji-gou.html</loc>
+<lastmod>2017-06-25T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -138,7 +145,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/seat-table.html</loc>
-<lastmod>2017-06-01T12:08:00+08:06</lastmod>
+<lastmod>2017-06-25T12:08:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/seat-table.html</loc>
+<lastmod>2017-06-25T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -151,15 +165,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/seat-table.html</loc>
-<lastmod>2017-06-01T12:08:00+08:06</lastmod>
+<loc>./author/2017springcd_ag7.html</loc>
+<lastmod>2017-05-04T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/2017springcd_ag7.html</loc>
-<lastmod>2017-05-04T12:08:00+08:06</lastmod>
+<loc>./author/43.html</loc>
+<lastmod>2017-06-25T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

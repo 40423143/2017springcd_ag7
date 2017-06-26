@@ -1,5 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 第七組</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-01T12:08:00+08:00</updated><entry><title>協同產品設計實習 第十五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-06-01T12:08:00+08:00</published><updated>2017-06-01T12:08:00+08:00</updated><author><name>ag7</name></author><id>tag:,2017-06-01:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;齒輪組的囓合協同繪圖&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 第七組</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-25T12:08:00+08:00</updated><entry><title>協同產品設計實習 第七組行走機構</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-qi-zu-xing-zou-ji-gou.html" rel="alternate"></link><published>2017-06-25T12:08:00+08:00</published><updated>2017-06-25T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-06-25:./xie-tong-chan-pin-she-ji-shi-xi-di-qi-zu-xing-zou-ji-gou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;第七組行走機構
+&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
+
+&lt;h2&gt;協同產品設計實習課程 第七組行走機構&lt;/h2&gt;
+&lt;p&gt;我是第七組組長負責工作是 onshape上的零件組合,跟最後整合由其他組員繪製零件跟設計後進行組裝跟模擬和實體列印 &lt;/p&gt;
+&lt;p&gt;工作分配:&lt;/p&gt;
+&lt;p&gt;40423143:onshape協同畫圖,組裝模擬,分配工作,錯誤回報&lt;/p&gt;
+&lt;p&gt;40423114:結構設計,理論分析,錯誤回報&lt;/p&gt;
+&lt;p&gt;40423141:協同畫圖,錯誤回報&lt;/p&gt;
+&lt;p&gt;40423146:v-rep模擬,錯誤回報&lt;/p&gt;
+&lt;p&gt;40423120:實體列印&lt;/p&gt;
+&lt;h2&gt;第七組網誌連結&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://40423143.github.io/2017springcd_ag7/blog/index.html"&gt;第七組網誌工作區&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;零件組裝1:組裝40423143&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/78NNDtbeJr0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;零件組裝2:組裝40423143&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QmXKsrjlpj4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;零件組裝3:組裝40423143&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7JNL24P4rl4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;以下為組員影片:&lt;/h1&gt;
+&lt;h1&gt;設計理論:40423114&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PTu03Rc3JFs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;設計理論模擬:40423114&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SE2vWjBshwE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;Autodesk繪製:40423114&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-dFZG04SMqg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;零件繪製:40423141&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/222997294" width="640" height="307" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222997294"&gt;52mm&lt;/a&gt; from &lt;a href="https://vimeo.com/user63666337"&gt;黃羿誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;零件繪製:40423141&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/222997298" width="640" height="307" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222997298"&gt;68mm&lt;/a&gt; from &lt;a href="https://vimeo.com/user63666337"&gt;黃羿誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;零件繪製:40423141&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/222997306" width="640" height="307" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222997306"&gt;79mm&lt;/a&gt; from &lt;a href="https://vimeo.com/user63666337"&gt;黃羿誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;零件繪製:40423141&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/222997311" width="640" height="307" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222997311"&gt;本體&lt;/a&gt; from &lt;a href="https://vimeo.com/user63666337"&gt;黃羿誠&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/h2&gt;onshape工作區&lt;/h2&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cad.onshape.com/documents/274005be1e8241d3c766f9f1/w/964eb62a09323c7d3b75db99/e/5634f93660a4e4f43a6c08e6"&gt;https://cad.onshape.com/documents/274005be1e8241d3c766f9f1/w/964eb62a09323c7d3b75db99/e/5634f93660a4e4f43a6c08e6&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;等角視圖&lt;/h2&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;img src="./../data/w19/w19.jpg" width="800" height="600" /&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2&gt;設計理論CAD圖&lt;/h2&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;img src="./../data/w19/CAD-1.jpg" width="800" height="600" /&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;h2&gt;設計理論CAD圖檔下載&lt;/h2&gt;
+
+&lt;h2&gt;CAD圖檔下載區&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="./../data/w19/W19-1.dwg"&gt;CAD圖檔下載區&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;
+
+&lt;h2&gt;CAD圖檔下載區&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="./../data/w19/W19-2.dwg"&gt;CAD圖檔下載區&lt;/a&gt; (請以滑鼠右鍵存檔)&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第十五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-06-01T12:08:00+08:00</published><updated>2017-06-01T12:08:00+08:00</updated><author><name>ag7</name></author><id>tag:,2017-06-01:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;齒輪組的囓合協同繪圖&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 
 
 &lt;h2&gt;協同產品設計實習課程 第十五週&lt;/h2&gt;
